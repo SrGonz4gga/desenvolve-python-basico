@@ -1,0 +1,4 @@
+1-Leia e armazene o número que se deseja multiplicar por 9.
+2-O primeiro dígito do resultado recebe n-1.
+3-O segundo dígito do resultado recebe 10-n.
+4-O resultado final é obtido multiplicando o primeiro dígito por 10 e somando com o segundo dígito.
